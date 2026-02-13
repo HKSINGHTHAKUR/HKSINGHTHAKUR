@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Harsh Kumar Singh</h1>
+<p align="center">
+  Computer Science Student | Full Stack Developer | DSA Enthusiast
+</p>
 
-<!--
-**HKSINGHTHAKUR/HKSINGHTHAKUR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Computer Science student at VIT Bhopal University with strong interest in 
+Data Structures & Algorithms, Backend Development, and Flutter applications.
+
+I focus on writing structured, efficient, and scalable code.
+
+---
+
+## Tech Stack
+
+**Languages**  
+C++ | Java | Kotlin | JavaScript  
+
+**Frameworks & Tools**  
+Flutter | Node.js | MySQL | Git  
+
+---
+
+## Featured Projects
+
+- Flutter Nutrition App  
+- Inventory Management System  
+- DSA Practice Repository  
+
+---
+
+## Contact
+
+Email: harshkusingh9456@gmail.com  
+LinkedIn: www.linkedin.com/in/harsh-kumar-singh-a3450928a
