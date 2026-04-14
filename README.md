@@ -130,13 +130,13 @@ Currently sharpening my craft in:
 </td>
 <td width="50%" align="center">
 
-**🥗 Flutter-Nutrition-App**
+**💠 Strocter**
 
-[![Nutrition](https://img.shields.io/badge/VIEW%20REPO-PUBLIC-c9a84c?style=for-the-badge&logo=github&logoColor=black)](https://github.com/HKSINGHTHAKUR/Flutter-Nutrition-App)
+[![Strocter](https://img.shields.io/badge/VIEW%20REPO-PUBLIC-c9a84c?style=for-the-badge&logo=github&logoColor=black)](https://github.com/HKSINGHTHAKUR/Strocter)
 
-*Fuel your body, inform your mind* — A nutrition tracking application leveraging C++ at its core.
+*Behavioral Finance Intelligence Platform* — Decode your money psychology and master your spending patterns.
 
-`C++` · `Flutter` · `Health Tech`
+`Behavioral Finance` · `Intelligence` · `Analytics`
 
 </td>
 </tr>
@@ -165,18 +165,6 @@ Currently sharpening my craft in:
 </div>
 
 ---
-
-## 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐅𝐎𝐎𝐓𝐏𝐑𝐈𝐍𝐓
-
-<div align="center">
-
-<br>
-
-<!-- Snake animation will render here once the GitHub Action workflow is set up -->
-
-<br>
-
-</div>
 
 ---
 
