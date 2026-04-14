@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=20&duration=3500&pause=1200&color=C9A84C&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=80&lines=Frontend+Developer+%7C+DSA+Craftsman+%7C+System+Thinker;CSE+%40+VIT+Bhopal+%E2%80%94+Building+What+Matters;%22Consistency+over+motivation.+Discipline+over+excuses.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=20&duration=3500&pause=1200&color=C9A84C&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=60&lines=Frontend+Developer+%7C+DSA+Craftsman+%7C+System+Thinker;%22Consistency+over+motivation.+Discipline+over+excuses.%22)](https://git.io/typing-svg)
 
 </div>
 
