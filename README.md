@@ -152,17 +152,13 @@ Currently sharpening my craft in:
 
 <br>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HKSINGHTHAKUR&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=c9a84c&icon_color=c9a84c&text_color=8b9dc3&bg_color=0d0d1a" alt="Harsh Kumar Singh GitHub Stats" />&nbsp;&nbsp;<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HKSINGHTHAKUR&layout=compact&theme=tokyonight&hide_border=true&title_color=c9a84c&text_color=8b9dc3&bg_color=0d0d1a&langs_count=6" alt="Top Languages" />
-
-<br><br>
+<!-- Removed broken stats cards (github-readme-stats.vercel.app rate-limited) -->
 
 <img width="65%" src="https://streak-stats.demolab.com?user=HKSINGHTHAKUR&theme=dark&hide_border=true&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d1a&sideLabels=8b9dc3&dates=8b9dc3&stroke=c9a84c" alt="GitHub Streak Stats" />
 
 <br><br>
 
-<img width="80%" src="https://github-profile-trophy.vercel.app/?username=HKSINGHTHAKUR&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
-
-<br><br>
+<!-- Removed broken trophy widget (github-profile-trophy.vercel.app unavailable) -->
 
 <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=HKSINGHTHAKUR&bg_color=0d0d1a&color=c9a84c&line=c9a84c&point=ffffff&area=true&hide_border=true&area_color=1a1a2e&title_color=c9a84c" alt="Harsh Kumar Singh Contribution Activity Graph" />
 
@@ -176,13 +172,11 @@ Currently sharpening my craft in:
 
 <br>
 
-<img width="90%" src="https://raw.githubusercontent.com/HKSINGHTHAKUR/HKSINGHTHAKUR/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+<!-- Snake animation will render here once the GitHub Action workflow is set up -->
 
 <br>
 
 </div>
-
-> *To activate the snake: create `.github/workflows/snake.yml` in your profile repo with the Platane/snk action.*
 
 ---
 
