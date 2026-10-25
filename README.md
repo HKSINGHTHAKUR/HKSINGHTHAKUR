@@ -94,30 +94,34 @@ Belief    →  "Discipline over excuses. Consistency over motivation."
 
 ---
 
+
 ## 𝐏𝐈𝐍𝐍𝐄𝐃 𝐖𝐎𝐑𝐊𝐒
 
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>CodeMate-App</h3>
-      <a href="https://github.com/HKSINGHTHAKUR/CodeMate-App"><img src="https://img.shields.io/badge/VIEW%20REPO-PUBLIC-c9a84c?style=for-the-badge&amp;logo=github&amp;logoColor=black" alt="View CodeMate-App Repository"></a>
+      <h3>Veyra</h3>
+      <a href="https://github.com/HKSINGHTHAKUR/Veyra">
+        <img src="https://img.shields.io/badge/VIEW%20REPO-PUBLIC-c9a84c?style=for-the-badge&amp;logo=github&amp;logoColor=black" alt="View Veyra Repository">
+      </a>
       <br><br>
-      <em>The Language Game</em>
-      <p>A Kotlin-powered interactive language-learning application built with a competitive edge in mind.</p>
-      <code>Kotlin</code> · <code>Android</code> · <code>Game Design</code>
+      <em>Healthcare Appointment &amp; Follow-up Manager</em>
+      <p>A full-stack healthcare platform for managing patient appointments, doctor consultations, prescriptions, and AI-assisted pre- and post-visit summaries.</p>
+      <code>React</code> · <code>Spring Boot</code> · <code>PostgreSQL</code> · <code>Gemini AI</code>
     </td>
     <td width="50%" align="center" valign="top">
-      <h3>Strocter</h3>
-      <a href="https://github.com/HKSINGHTHAKUR/Strocter"><img src="https://img.shields.io/badge/VIEW%20REPO-PUBLIC-c9a84c?style=for-the-badge&amp;logo=github&amp;logoColor=black" alt="View Strocter Repository"></a>
+      <h3>Frieday</h3>
+      <a href="https://github.com/HKSINGHTHAKUR/Frieday">
+        <img src="https://img.shields.io/badge/VIEW%20REPO-PUBLIC-c9a84c?style=for-the-badge&amp;logo=github&amp;logoColor=black" alt="View Frieday Repository">
+      </a>
       <br><br>
-      <em>Behavioral Finance Intelligence Platform</em>
-      <p>Decode your money psychology and master your spending patterns.</p>
-      <code>Behavioral Finance</code> · <code>Intelligence</code> · <code>Analytics</code>
+      <em>GitHub Intelligence &amp; Developer Analytics Platform</em>
+      <p>Transform GitHub activity into actionable insights with repository health metrics, commit and pull-request analytics, activity timelines, and AI-assisted explanations.</p>
+      <code>React</code> · <code>Node.js</code> · <code>Express</code> · <code>MongoDB</code> · <code>GitHub API</code>
     </td>
   </tr>
 </table>
 
----
 
 ## 𝐆𝐈𝐓𝐇𝐔𝐁 𝐂𝐇𝐑𝐎𝐍𝐈𝐂𝐋𝐄𝐒
 
